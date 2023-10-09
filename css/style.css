@@ -1,0 +1,75 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Inter';
+}
+
+
+.main{
+  width: 100vw;
+  height: 100vh;
+  background: #343541;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+
+img{
+
+width: 39px;
+height: 39px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.text{
+    color: white;
+    line-height: 50px;
+    font-weight: 400;
+    font-size: 15px;
+
+}
+
+.seg{
+
+    color: white;
+    line-height: 25px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.botao{
+
+border-radius: 5px;
+border: none;
+padding: 11px;
+justify-content: space-between;
+margin-right: 9px;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+
+.botao2{
+
+    border-radius: 5px;
+    border: none;
+    padding: 11px;
+    justify-content: space-between;
+    
+    
+    
+    
+    }
+    
+
